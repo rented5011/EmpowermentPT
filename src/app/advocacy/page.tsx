@@ -27,7 +27,7 @@ export default function AdvocacyPage() {
 
         <h2 style={{color:"#2c3e50"}}>💡 Proposed ICT-Based Solution</h2>
         <p style={{color:"#555", lineHeight:"1.8"}}>
-          As a future nurse, I propose the expansion of free medical services
+          As a nurse, I propose the expansion of free medical services
           across the Philippines through a government funded mobile app. This app would
           allow Filipinos in remote areas to consult with doctors and nurses for free,
           receive digital prescriptions, and get directions to the nearest free health
