@@ -35,7 +35,7 @@ export default function ComparisonPage() {
         <p style={{color:"#555", lineHeight:"1.8"}}>
           While the Philippines has room to grow, the rise of mobile technology and
           government initiatives like the eHealth Philippines program show promising
-          progress. As a future nurse, I hope to be part of this digital transformation
+          progress. As a nurse, I hope to be part of this digital transformation
           in Philippine healthcare.
         </p>
 
