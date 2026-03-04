@@ -18,7 +18,7 @@ export default function Home() {
         <div style={{background:"rgba(255,255,255,0.1)", padding:"20px", borderRadius:"10px", marginTop:"25px"}}>
           <p style={{color:"white", fontStyle:"italic", fontSize:"16px", lineHeight:"1.8", margin:"0"}}>
             "To serve with compassion, provide accessible care for all, 
-            and heal with knowledge — one patient at a time.""
+            and heal with knowledge — one patient at a time."
           </p>
         </div>
 
