@@ -36,7 +36,14 @@ export default function AboutMe() {
         <p style={{color:"#555", lineHeight:"2"}}>🔵 LinkedIn: linkedin.com/in/JeffreyCollins</p>
         <p style={{color:"#555", lineHeight:"2"}}>📘 Facebook: facebook.com/JeffreyCollins511</p>
         <p style={{color:"#555", lineHeight:"2"}}>📸 Instagram: @jeffrey.collin511 </p>
-
+        
+<div style={{background:"#ffeeba", padding:"20px", borderRadius:"10px", marginTop:"20px"}}>
+  <h3 style={{color:"#856404", margin:"0 0 10px"}}>⚠️ Disclaimer on Responsible Communication</h3>
+  <p style={{color:"#856404", lineHeight:"1.8", margin:"0 0 10px", fontSize:"13px"}}>
+    All contact information on this page is for educational purposes only and does
+    not represent a real professional account.
+     </p>
+</div>
       </div>
     </main>
   )
